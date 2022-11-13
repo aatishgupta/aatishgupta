@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on golang.
+🔭 polyglot Programmer
 
-🌱 I’m currently learning kubernetes and aws.
 
 
 
