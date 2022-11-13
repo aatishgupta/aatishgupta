@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 polyglot Programmer
+🔭 Polyglot Programmer
 
 
 
